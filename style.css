@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(177, 195, 195);
+}
+.jumbotron{
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.btn-custom{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+}
+.btn-custom:hover{
+    background-color: rgb(117, 169, 215);
+}
+.table-bordered {
+    border: 2px solid black;
+}
+
+.table td{
+    text-align: center;
+}
